@@ -1,4 +1,5 @@
-⚠️ Usage Notice & Copyright
+⚠️ Usage Notice & Copyright:
+
 This macro is free for personal use only. You are NOT allowed to 
 modify the code or sell/monetize it in any way. Re-uploading this script 
 to YouTube, Discord, or other GitHub repositories without permission is 
