@@ -62,12 +62,8 @@ While it runs, **keep the game window visible and the cursor inside it** — lea
 
 ---
 
-## 🔒 About the protected code
+## 🔒 About the code
 
-`macro_test.py` ships as a **protected (obfuscated) build** — it looks like gibberish on purpose:
-
-- It contains no readable source at rest and refuses to run if edited
-- You never need to edit it — `run.sh` handles everything (venv setup, dependencies, launch)
 - If you see `[SUDOSWARM] This copy of the macro is corrupted or was edited`, download a fresh copy
 
 ---
