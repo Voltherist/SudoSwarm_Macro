@@ -9,7 +9,7 @@ All rights reserved.
        gui_background.webp and title_icon.png) on your own computer,
        for personal, non-commercial use with your own game account(s).
    1.2 You must obtain the Software only from its official GitHub release
-       page: https://github.com/vyntharx-ops/SudoSwarm_Macro
+       page: https://github.com/Voltherist/SudoSwarm_Macro
 
 2. WHAT YOU MAY NOT DO — ALL RIGHTS RESERVED BY THE AUTHOR
    2.1 You may NOT copy, modify, alter or create derivative works based on
