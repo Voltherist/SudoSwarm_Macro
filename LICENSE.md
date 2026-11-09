@@ -1,6 +1,6 @@
 SUDOSWARM MACRO PROPRIETARY LICENSE
 
-Copyright (c) 2026 Vyntharx (GitHub: https://github.com/vyntharx-ops).
+Copyright (c) 2026 Voltherist (GitHub: https://github.com/Voltherist).
 All rights reserved.
 
 1. WHAT YOU MAY DO
