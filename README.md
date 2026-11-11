@@ -91,7 +91,7 @@ Everything you need is in this README - no other files required.
 ## 📄 License
 
 Released under the **SudoSwarm Proprietary License** (see `LICENSE.md`):
-free for **personal use by the original downloader** — no modification, no reverse engineering, no redistribution, no claiming it as your own, no commercial use. All rights reserved by [vyntharx-ops](https://github.com/vyntharx-ops).
+free for **personal use by the original downloader** — no modification, no reverse engineering, no redistribution, no claiming it as your own, no commercial use. All rights reserved by [Voltherist](https://github.com/Voltherist).
 
 ---
 
