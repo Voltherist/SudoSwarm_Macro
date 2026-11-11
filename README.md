@@ -41,9 +41,10 @@ The first start installs the Python modules it needs (1–3 min, internet requir
 If `./run.sh` says `Permission denied`, run `chmod +x run.sh` once and try again.
 
 ---
-> **[Click here to visit my website](https://example.com)**
-> 
-> This is a small description box inside a GitHub README.
+[![Sober](https://img.shields.io/badge/Sober-darkgreen?logo=roblox&logoColor=green&style=for-the-badge)](https://flathub.org/en/apps/org.vinegarhq.Sober)
+[![Discord](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/8Zu7vbhUS3)
+[![Youtube](https://img.shields.io/badge/Youtube-white?logo=youtube&logoColor=red&style=for-the-badge)](https://telegram.org)
+
 ## 🕹 How to use
 ---
 Open the game window in Sober (keep it **windowed**, not minimized/fullscreen), click into the game so it has keyboard focus, then in the **SudoSwarm Macro** window:
