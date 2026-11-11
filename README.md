@@ -62,8 +62,12 @@ While it runs, **keep the game window visible and the cursor inside it** — lea
 
 ---
 
-## 🔒 About the code
+## 🔒 About the protected code
 
+`macro_test.py` ships as a **protected (obfuscated) build** — it looks like gibberish on purpose:
+
+- It contains no readable source at rest and refuses to run if edited
+- You never need to edit it — `run.sh` handles everything (venv setup, dependencies, launch)
 - If you see `[SUDOSWARM] This copy of the macro is corrupted or was edited`, download a fresh copy
 
 ---
@@ -80,14 +84,14 @@ While it runs, **keep the game window visible and the cursor inside it** — lea
 | Character misses the field | Movespeed does not match your in-game status |
 | Other distro (Fedora/Arch) | `Fedora: sudo dnf install python3-tkinter xdotool` · `Arch: sudo pacman -S python-pip tk xdotool`, then `./run.sh` |
 
-Full beginner instructions are in `README.txt` inside the download.
+Everything you need is in this README - no other files required.
 
 ---
 
 ## 📄 License
 
 Released under the **SudoSwarm Proprietary License** (see `LICENSE.md`):
-free for **personal use by the original downloader** — no modification, no reverse engineering, no redistribution, no claiming it as your own, no commercial use. All rights reserved by [Voltherist](https://github.com/Voltherist).
+free for **personal use by the original downloader** — no modification, no reverse engineering, no redistribution, no claiming it as your own, no commercial use. All rights reserved by [vyntharx-ops](https://github.com/vyntharx-ops).
 
 ---
 

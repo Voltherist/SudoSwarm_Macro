@@ -1,7 +1,7 @@
 # SudoSwarm Macro (Bee Swarm Simulator) - PROTECTED BUILD
 # This file was generated from the original source and is not meant to be edited.
 # Editing any part of it will make the macro refuse to start.
-# Learn more in README.txt
+# Learn more in README.md
 
 import base64 as _C8b
 import hashlib as _C6h
