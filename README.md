@@ -41,9 +41,11 @@ The first start installs the Python modules it needs (1–3 min, internet requir
 If `./run.sh` says `Permission denied`, run `chmod +x run.sh` once and try again.
 
 ---
-
+> **[Click here to visit my website](https://example.com)**
+> 
+> This is a small description box inside a GitHub README.
 ## 🕹 How to use
-
+---
 Open the game window in Sober (keep it **windowed**, not minimized/fullscreen), click into the game so it has keyboard focus, then in the **SudoSwarm Macro** window:
 
 | Setting | Meaning |
